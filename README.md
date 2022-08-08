@@ -40,3 +40,4 @@ To contribute you'll need:
 
 Notes:
 * This is absolutely a hobby project, by using this application you agree to bear all consequences and the developers shall not bear any responsibilities on any damage or loss to your machine.
+* If you like this project, please support me by leaving a "Star" here, much appreciated and have a great day ahead.
