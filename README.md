@@ -10,7 +10,7 @@ Windows 7, 8, 8.1, 10
 
 (NOT tested on Windows XP, Vista)
 
-## Usage Instructions (For standard users)
+## Getting Started (For standard users)
 
 1. Click on green color "Code" button, and select "Download ZIP".
 2. Unzip the file and run "moveIt.exe".
